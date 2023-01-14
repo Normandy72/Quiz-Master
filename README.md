@@ -25,7 +25,17 @@
 
 ## Getter Methods
 * Gives a script read-only access to a private variable.
-* Protects the contents of a private variable.  
+* Protects the contents of a private variable.
+
+## What is an Array?
+* A grouping of multiple variables of the same type.
+* Each item stored in an array is called an 'element'.
+* Each element can b accessed by its index number.
+* Counting starts at zero.
+
+`int[] oddNumbers = {1,3,5,7,9};`
+
+`int[] oddNumbers = new int[5];`
 
 ***
 ## Quiz Questions
