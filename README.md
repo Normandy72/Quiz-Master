@@ -37,6 +37,26 @@
 
 `int[] oddNumbers = new int[5];`
 
+## What is a Loop?
+* Repeat an event until some condition is met.
+* Very powerful for counting or iterating.
+* One type of loop is called a 'For Loop'.
+* Loop a set number of times.
+
+#### For Loop
+```
+for(int i = 0; i < n; i++)
+{
+    // do stuff
+}
+```
+
+`int i = 0` - runs once before the code block is executed; sets up the iterator.
+
+`i < n` - defines the loop condition; tells the loop when to stop. Be careful of infinite loops!
+
+`i++` - executes at the end of every loop; used to increment or decrement the iterator.
+
 ***
 ## Quiz Questions
 1. What is a correct syntax to output "Hello World" in C#?
