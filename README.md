@@ -23,6 +23,10 @@
     * Possible answers.
     * Correct answer.
 
+## Getter Methods
+* Gives a script read-only access to a private variable.
+* Protects the contents of a private variable.  
+
 ***
 ## Quiz Questions
 1. What is a correct syntax to output "Hello World" in C#?
