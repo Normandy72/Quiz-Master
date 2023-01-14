@@ -78,7 +78,7 @@ for(int i = 0; i < n; i++)
 * Clear the list: `List.Clear()`
 
 ***
-## Quiz Questions
+# ~ Quiz Questions ~
 1. What is a correct syntax to output "Hello World" in C#?
     * `cout << "Hello World";`
     * `print("Hello World");`
