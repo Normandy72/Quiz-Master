@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 444f83282e68d7d40a75ccf03f48c48f, type: 3}
   m_Name: New Question 5
   m_EditorClassIdentifier: 
-  question: 
+  question: Which operator can be used to compare two values?
+  answers:
+  - <>
+  - '== '
+  - =
+  - '><'
+  correctAnswerIndex: 1
