@@ -57,6 +57,26 @@ for(int i = 0; i < n; i++)
 
 `i++` - executes at the end of every loop; used to increment or decrement the iterator.
 
+## What is a List?
+* They are kind of arrays.
+* A grouping of multiple variables of the same type.
+* Each item stored in a List is called an 'element'.
+* Each element can be accessed by its index number.
+* Counting starts at zero.
+* They are mutable - meaning we can change their size.
+#### Syntax
+##### Array
+`int[] oddNumbers = new int[5];`
+##### List
+`List<int> oddNumbers = new List<int>();`
+#### Useful Methods & Properties
+* Check item count: `List.Count`
+* Check if item exists: `List.Contains(3)`
+* Add an item: `List.Add(3)`
+* Remove an item: `List.Remove(3)`
+* Remove item at index: `List.removeAt(0)`
+* Clear the list: `List.Clear()`
+
 ***
 ## Quiz Questions
 1. What is a correct syntax to output "Hello World" in C#?
